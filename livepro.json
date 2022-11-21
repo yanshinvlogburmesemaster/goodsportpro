@@ -6,9 +6,9 @@
     "TeamOneGoal": "1",
     "TeamTwoLogo": "https://add.pics/images/2022/11/21/Arsenal_FC.svg.png",
     "TeamTwoName": "Arsenal",
-    "TeamTwoGoal": "0",
+    "TeamTwoGoal": "1",
     "StartTime": "22.12.2022",
-    "Condition": "Live"
+    "Condition": "LIVE"
   },
   {
     "Title": "Series B",
@@ -18,13 +18,13 @@
     "TeamTwoLogo": "https://add.pics/images/2022/11/21/Arsenal_FC.svg.png",
     "TeamTwoName": "Arsenal",
     "TeamTwoGoal": "5",
-    "StartTime": "22.12.2022",
+    "StartTime": "22.92.2022",
     "Condition": "END"
   },
   {
     "Title": "Series C",
     "TeamOneLogo": "https://add.pics/images/2022/11/21/Manchester_United_FC_crest.svg.png",
-    "TeamOneName": "ManU",
+    "TeamOneName": "ManUU",
     "TeamOneGoal": "0",
     "TeamTwoLogo": "https://add.pics/images/2022/11/21/Arsenal_FC.svg.png",
     "TeamTwoName": "Arsenal",
